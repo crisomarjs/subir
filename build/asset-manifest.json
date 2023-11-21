@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37ce6a02.css",
+    "main.js": "/static/js/main.22de7bf9.js",
+    "static/media/mozzaclassic.jpg": "/static/media/mozzaclassic.f24a78957fa5625cf2c1.jpg",
+    "static/media/SISIG.jpg": "/static/media/SISIG.d9fe4ae08d650d79305b.jpg",
+    "static/media/open.png": "/static/media/open.3baed8aa3dd2dfe954ce.png",
+    "static/media/SPAGHETTI2.jpg": "/static/media/SPAGHETTI2.4a9c284e96c8ae402ff3.jpg",
+    "static/media/quezzomozzaclassic.jpg": "/static/media/quezzomozzaclassic.8a5d36439f7df8e7505f.jpg",
+    "static/media/MANGO GRAHAM.jpg": "/static/media/MANGO GRAHAM.d2675c9a403786204131.jpg",
+    "static/media/BUFFALOWINGS.jpg": "/static/media/BUFFALOWINGS.d5620c1690bc61d98762.jpg",
+    "static/media/G-cash.png": "/static/media/G-cash.7ac5fe0a67649bb9b842.png",
+    "static/media/bg.png": "/static/media/bg.91961c73cc2bb76c4b20.png",
+    "static/media/WINTERMELON.jpg": "/static/media/WINTERMELON.81ebe2bbff5277eb7f82.jpg",
+    "static/media/laspatatas.jpg": "/static/media/laspatatas.2d1f62cbe0080e316e04.jpg",
+    "static/media/CHICKSILOG.jpg": "/static/media/CHICKSILOG.cc4b818b7c87765f3bb9.jpg",
+    "static/media/TARO.jpg": "/static/media/TARO.154167049421d08fdebe.jpg",
+    "static/media/logo.jpg": "/static/media/logo.f0e19c560ff900e95c29.jpg",
+    "index.html": "/index.html",
+    "main.37ce6a02.css.map": "/static/css/main.37ce6a02.css.map",
+    "main.22de7bf9.js.map": "/static/js/main.22de7bf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ce6a02.css",
+    "static/js/main.22de7bf9.js"
+  ]
+}
